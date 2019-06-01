@@ -1,2 +1,2 @@
 # Jahil
-Fake call dari tokopedia
+Fake call dari pusat
